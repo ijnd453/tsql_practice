@@ -1,0 +1,11 @@
+Changed database context to 'SalesLT'.
+customerID  title      firstName            lastName             middleName           suffix     salesperson                              phoneNumber     companyName                              emailAddress                            
+----------- ---------- -------------------- -------------------- -------------------- ---------- ---------------------------------------- --------------- ---------------------------------------- ----------------------------------------
+          1 Dr.        Bungly               Gilligans            J.                   Jr.        Jessica J                                734-867-1958    G-Strap 10                               beebeepoopoo@gmail.com                  
+          2 Prof.      Pubert               Plum                 P.                              Jessica H                                945-999-9999    Plum University                          plump@pu.edu                            
+          3 Mr.        Jacob                Referra                                   II         Jessica P                                945-989-9499    Plum University                          fuckra@gmail.com                        
+          4            Sean                 Jones                Belling              Sr.        Jessica F                                718-084-0241    G-Strap 10                               sjones@gmail.com                        
+          5 Ms.        Bungus               Scrungus             G.                   NULL       Jessica J                                910-491-4144    ButtCorp                                 bungs@hotmail.com                       
+          6 Mrs.       Phillippe            Hovarth              S.                              Jessica S                                910-880-8088    NULL                                     NULL                                    
+
+(6 rows affected)

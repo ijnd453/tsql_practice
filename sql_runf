@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sqlcmd -S localhost -U SA -P 'GRUmble453#$!' -i $1 -o $2
+
+
